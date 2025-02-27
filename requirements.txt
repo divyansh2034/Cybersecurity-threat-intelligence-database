@@ -1,0 +1,7 @@
+streamlit>=1.28.0
+networkx>=2.8.4
+pyvis>=0.3.0
+mysql-connector-python>=8.0.26
+pandas>=1.3.3
+requests>=2.26.0
+Werkzeug>=2.0.1 

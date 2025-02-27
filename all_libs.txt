@@ -1,0 +1,35 @@
+1. streamlit
+   - A web application framework for Python that allows you to create interactive web applications easily.
+
+2. pandas
+   - A powerful data manipulation and analysis library for Python, used for handling data in DataFrame format.
+
+3. mysql-connector-python
+   - A MySQL driver that allows Python to connect to MySQL databases and execute SQL queries.
+
+4. requests
+   - A simple and elegant HTTP library for Python, used to make API calls to external services like VirusTotal.
+
+5. networkx
+   - A library for the creation, manipulation, and study of complex networks, used for building the threat network graph.
+
+6. pyvis
+   - A Python library that provides a simple interface to visualize NetworkX graphs in a web browser, enabling interactive visualizations.
+
+7. matplotlib (optional)
+   - A plotting library for Python, which can be used for creating static, animated, and interactive visualizations in Python.
+
+8. numpy (optional)
+   - A library for numerical computations in Python, often used alongside pandas for data manipulation.
+
+9. streamlit-custom-notification (if applicable)
+   - A library for adding custom notification features to Streamlit applications (if used).
+
+10. hashlib (standard library)
+    - A built-in Python library used for hashing passwords securely.
+
+11. json (standard library)
+    - A built-in Python library for parsing JSON data, often used when working with APIs.
+
+12. datetime (standard library)
+    - A built-in Python library for manipulating dates and times, useful for timestamping records.

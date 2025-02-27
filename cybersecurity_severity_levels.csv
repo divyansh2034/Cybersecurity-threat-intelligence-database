@@ -1,0 +1,11 @@
+Severity Level,Mitigation Strategies
+1,No action needed; maintain regular security updates.
+2,Monitor network logs and ensure firewall is enabled.
+3,Use strong passwords and enable 2FA for all accounts.
+4,Perform regular vulnerability assessments.
+5,Educate users about phishing and implement email filtering.
+6,Install and update endpoint protection software.
+7,Restrict access to critical systems and apply least privilege.
+8,Enable IDS/IPS and conduct continuous threat monitoring.
+9,"Isolate infected systems, apply patches immediately."
+10,"Immediate incident response, full forensic analysis, and containment."
